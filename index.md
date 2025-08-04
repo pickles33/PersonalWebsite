@@ -8,5 +8,5 @@ nav_order: 1
 
 Welcome to my professional website.  
 Explore my work, learn more about me, or get in touch.
-![My Photo](assets/pic1.jpg)
-<img src="assets/pic1.jpg" alt="My Photo" width="200"/>
+![My Photo](img/pic1.jpg)
+<img src="img/pic1.jpg" alt="My Photo" width="200"/>

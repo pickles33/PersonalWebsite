@@ -7,6 +7,7 @@ permalink: /contact/
 
 # Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+You can reach me at [lee.stephen747@gmail.com](mailto:lee.stephen747@gmail.com).
 
-Or find me on [GitHub](https://github.com/pickles33).
+Or find me on [Linkedin](https://linkedin.com/in/slee747).
+[Github](https://github.com/pickles33).

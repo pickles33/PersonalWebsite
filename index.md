@@ -10,5 +10,5 @@ Welcome to my personal website.
 This is just a simple website where people can learn a little about me and also get into contact with me
 
 <p style="text-align: center;">
-<img src="img/pic1.jpg" alt="My Photo" width="170"/>
+<img src="img/pic1.jpg" alt="My Photo" width="220"/>
 </p>

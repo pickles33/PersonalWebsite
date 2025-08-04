@@ -1,0 +1,18 @@
+title: "Pickles33 Portfolio"
+description: "Professional multi-page site"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links (for custom navbar)
+navbar-links:
+  Home: /
+  About: /about
+  Projects: /projects
+  Contact: /contact
+
+# Optional: Exclude files from build
+exclude:
+  - README.md

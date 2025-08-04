@@ -24,6 +24,7 @@ Through this experience I learned alot about I.T in general and also about worki
 
 I also used this time at this job to better myself as a person,
 I lost over 100 pounds in the span of my time working there (6 months). Here is a picture of me then and me now. 250 pounds -> 150 pounds.
+<!-- <img src="images/pic2.jpg" alt="My Photo" width="200"/> -->
 
 I believe in hard work to achieve goals and I am always looking to improve my life, I approach my work the same way. 
 

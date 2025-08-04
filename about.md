@@ -19,6 +19,9 @@ and for the factory itself. I helped with general tech support across all depart
 
 Through this experience I learned alot about I.T in general and also about working in a Korean company, which was a very unique experience.
 
+
+
+
 I also used this time at this job to better myself as a person,
 I lost over 100 pounds in the span of my time working there (6 months). Here is a picture of me then and me now. 250 pounds -> 150 pounds.
 

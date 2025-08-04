@@ -18,7 +18,8 @@ My last role was working at HSAGP (Hyundai SK America Green Power) as an IT tech
 and for the factory itself. I helped with general tech support across all departments with problems ranging from network issues to hardware.
 
 Through this experience I learned alot about I.T in general and also about working in a Korean company, which was a very unique experience.
-
+<br>
+<br>
 
 
 
